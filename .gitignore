@@ -1,0 +1,27 @@
+# Binários e executáveis
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.elf
+*.so
+*.dll
+*.dylib
+
+# Pastas de build/compilação (comum em CMake, Meson)
+build/
+bin/
+obj/
+Debug/
+Release/
+
+# Arquivos temporários e de IDEs
+*.swp
+*~
+.vscode/
+.vs/
+.idea/
+*.user
+*.suo
+*.useros
